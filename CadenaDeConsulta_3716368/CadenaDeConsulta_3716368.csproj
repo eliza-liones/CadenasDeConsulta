@@ -72,6 +72,7 @@
   <ItemGroup>
     <None Include="Scripts\jquery-3.7.1.intellisense.js" />
     <Content Include="CadenasDeConsulta.aspx" />
+    <Content Include="ProductConfirmQueryStrings.aspx" />
     <Content Include="Scripts\jquery-3.7.1.js" />
     <Content Include="Scripts\jquery-3.7.1.min.js" />
     <Content Include="Scripts\jquery-3.7.1.slim.js" />
@@ -85,6 +86,13 @@
     </Compile>
     <Compile Include="CadenasDeConsulta.aspx.designer.cs">
       <DependentUpon>CadenasDeConsulta.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ProductConfirmQueryStrings.aspx.cs">
+      <DependentUpon>ProductConfirmQueryStrings.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ProductConfirmQueryStrings.aspx.designer.cs">
+      <DependentUpon>ProductConfirmQueryStrings.aspx</DependentUpon>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

@@ -41,7 +41,7 @@
     
     <p>
     <asp:Label ID="Label4" runat="server" Text="Description:"></asp:Label>
-    <asp:TextBox ID="txtDescription" runat="server" Height="64px" TextMode="MultiLine" ></asp:TextBox>
+    <asp:TextBox ID="txtDescription" runat="server" Height="52px" TextMode="MultiLine" ></asp:TextBox>
     </p>
 
     <p>

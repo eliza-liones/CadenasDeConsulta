@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\estre\\Documents\\CadenasDeConsulta\\CadenaDeConsulta_3716368\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5C1372DF-3AAA-407D-BC44-6610F7793602}|CadenaDeConsulta_3716368\\CadenaDeConsulta_3716368.csproj|c:\\users\\estre\\documents\\cadenasdeconsulta\\cadenadeconsulta_3716368\\cadenadeconsulta_3716368\\cadenasdeconsulta.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5C1372DF-3AAA-407D-BC44-6610F7793602}|CadenaDeConsulta_3716368\\CadenaDeConsulta_3716368.csproj|solutionrelative:cadenadeconsulta_3716368\\cadenasdeconsulta.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{5C1372DF-3AAA-407D-BC44-6610F7793602}|CadenaDeConsulta_3716368\\CadenaDeConsulta_3716368.csproj|C:\\Users\\estre\\Documents\\CadenasDeConsulta\\CadenaDeConsulta_3716368\\cadenadeconsulta_3716368\\cadenasdeconsulta.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{5C1372DF-3AAA-407D-BC44-6610F7793602}|CadenaDeConsulta_3716368\\CadenaDeConsulta_3716368.csproj|solutionrelative:cadenadeconsulta_3716368\\cadenasdeconsulta.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C1372DF-3AAA-407D-BC44-6610F7793602}|CadenaDeConsulta_3716368\\CadenaDeConsulta_3716368.csproj|c:\\users\\estre\\documents\\cadenasdeconsulta\\cadenadeconsulta_3716368\\cadenadeconsulta_3716368\\productconfirmquerystrings.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{5C1372DF-3AAA-407D-BC44-6610F7793602}|CadenaDeConsulta_3716368\\CadenaDeConsulta_3716368.csproj|solutionrelative:cadenadeconsulta_3716368\\productconfirmquerystrings.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C1372DF-3AAA-407D-BC44-6610F7793602}|CadenaDeConsulta_3716368\\CadenaDeConsulta_3716368.csproj|c:\\users\\estre\\documents\\cadenasdeconsulta\\cadenadeconsulta_3716368\\cadenadeconsulta_3716368\\productconfirmquerystrings.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C1372DF-3AAA-407D-BC44-6610F7793602}|CadenaDeConsulta_3716368\\CadenaDeConsulta_3716368.csproj|solutionrelative:cadenadeconsulta_3716368\\productconfirmquerystrings.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C1372DF-3AAA-407D-BC44-6610F7793602}|CadenaDeConsulta_3716368\\CadenaDeConsulta_3716368.csproj|c:\\users\\estre\\documents\\cadenasdeconsulta\\cadenadeconsulta_3716368\\cadenadeconsulta_3716368\\cadenasdeconsulta.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C1372DF-3AAA-407D-BC44-6610F7793602}|CadenaDeConsulta_3716368\\CadenaDeConsulta_3716368.csproj|solutionrelative:cadenadeconsulta_3716368\\cadenasdeconsulta.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,24 +26,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
+              "Title": "ProductConfirmQueryStrings.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\estre\\Documents\\CadenasDeConsulta\\CadenaDeConsulta_3716368\\CadenaDeConsulta_3716368\\ProductConfirmQueryStrings.aspx.cs",
+              "RelativeDocumentMoniker": "CadenaDeConsulta_3716368\\ProductConfirmQueryStrings.aspx.cs",
+              "ToolTip": "C:\\Users\\estre\\Documents\\CadenasDeConsulta\\CadenaDeConsulta_3716368\\CadenaDeConsulta_3716368\\ProductConfirmQueryStrings.aspx.cs",
+              "RelativeToolTip": "CadenaDeConsulta_3716368\\ProductConfirmQueryStrings.aspx.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAqwCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T01:22:29.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductConfirmQueryStrings.aspx",
+              "DocumentMoniker": "C:\\Users\\estre\\Documents\\CadenasDeConsulta\\CadenaDeConsulta_3716368\\CadenaDeConsulta_3716368\\ProductConfirmQueryStrings.aspx",
+              "RelativeDocumentMoniker": "CadenaDeConsulta_3716368\\ProductConfirmQueryStrings.aspx",
+              "ToolTip": "C:\\Users\\estre\\Documents\\CadenasDeConsulta\\CadenaDeConsulta_3716368\\CadenaDeConsulta_3716368\\ProductConfirmQueryStrings.aspx",
+              "RelativeToolTip": "CadenaDeConsulta_3716368\\ProductConfirmQueryStrings.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-03-03T01:19:40.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "CadenasDeConsulta.aspx.cs",
               "DocumentMoniker": "C:\\Users\\estre\\Documents\\CadenasDeConsulta\\CadenaDeConsulta_3716368\\CadenaDeConsulta_3716368\\CadenasDeConsulta.aspx.cs",
               "RelativeDocumentMoniker": "CadenaDeConsulta_3716368\\CadenasDeConsulta.aspx.cs",
               "ToolTip": "C:\\Users\\estre\\Documents\\CadenasDeConsulta\\CadenaDeConsulta_3716368\\CadenaDeConsulta_3716368\\CadenasDeConsulta.aspx.cs",
               "RelativeToolTip": "CadenaDeConsulta_3716368\\CadenasDeConsulta.aspx.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAADwvx4AAAAOAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAADwvxIAAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-02T22:00:41.24Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "CadenasDeConsulta.aspx",
               "DocumentMoniker": "C:\\Users\\estre\\Documents\\CadenasDeConsulta\\CadenaDeConsulta_3716368\\CadenaDeConsulta_3716368\\CadenasDeConsulta.aspx",
               "RelativeDocumentMoniker": "CadenaDeConsulta_3716368\\CadenasDeConsulta.aspx",
